@@ -30,13 +30,16 @@ The bot is currently being hosted on [railway.app](https://railway.app).
 - `DISCORD_BOT_APP_ID = ''`
 7. Run `main.py`
 
-## Notes
+## Process
+1. Grab scripts from [here](https://realtimefandub.fandom.com/wiki/Category:SnapCube%27s_Real-Time_Fandub_episode_transcripts)
+2. Clean scripts getting rid of non-spoken lines
+3. Create Discord Bot
 
 ## TODO
-[] Add list of characters embed
+[ ] Add list of characters embed
 
-[] Filter by character
+[ ] Filter by character
 
-[] Filter by Fandub
+[ ] Filter by Fandub
 
-[] Show list of lines by [character]
+[ ] Show list of lines by [character]
