@@ -1,14 +1,14 @@
-# Chadow the Cedgehog
+# Chadow the Chadgehog
 -----
 *Chadow* is a Discord bot written in Python that spits out a random quote from Snapcube's Sonic the Hedgehog Fandubs!
 
-The bot is currently being hosted on [railway.app](https://railway.app) and I'm using Airtable to store all my data. 
+The bot is currently being hosted on [railway.app](https://railway.app). 
 
-Invite link: [later]
+[Invite link](https://discord.com/api/oauth2/authorize?client_id=1032925984976011264&permissions=8&scope=bot%20applications.commands)
 
 ## Demo
 
-![Demo](https://cdn.discordapp.com/attachments/1030373948694728764/1033689034742046820/Testing_BlurbBot.gif)
+![Demo](https://cdn.discordapp.com/attachments/1032086244559179807/1037594165812404234/chadow_demo.gif)
 
 ## Current Features
 `/quote` - Generate a random quote!
