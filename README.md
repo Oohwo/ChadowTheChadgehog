@@ -36,10 +36,10 @@ The bot is currently being hosted on [railway.app](https://railway.app).
 3. Create Discord Bot
 
 ## TODO
-[ ] Add list of characters embed
 
-[ ] Filter by character
-
-[ ] Filter by Fandub
-
-[ ] Show list of lines by [character]
+- [x] Initial commit
+- [ ] Add list of characters embed
+- [ ] Filter by character
+- [ ] Filter by Fandub
+- [ ] Show list of lines by [character]
+- [ ] Show number of lines by [character]
