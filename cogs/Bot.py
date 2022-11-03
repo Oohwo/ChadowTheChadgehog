@@ -11,7 +11,7 @@ class Bot(commands.Cog):
     async def on_ready(self) -> None:
         '''when bot is online, set status and print to console'''
         await self.bot.change_presence(
-            status=discord.Status.online,
+            status=discord.Status.do_not_disturb,
             activity=discord.Activity(type=discord.ActivityType.listening, name="A Ghost's Pumpkin Soup (Pumpkin Hill)"))
         print('------')
         print(f'Logged in as {self.bot.user} (ID: {self.bot.user.id}!)')
