@@ -34,5 +34,9 @@ Invite link: [later]
 
 ## TODO
 [] Add list of characters embed
+
 [] Filter by character
+
+[] Filter by Fandub
+
 [] Show list of lines by [character]
