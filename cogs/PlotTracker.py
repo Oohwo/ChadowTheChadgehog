@@ -41,7 +41,6 @@ def xkcd_matplot(x_axis_label, y_axis_label, title, table, line_label):
   table = Table(AIRTABLE_API_KEY, AIRTABLE_BASE_ID, 'lol')
   records = pd.DataFrame(table.all(sort=['created']))
   count_list = [record['count'] for record in records['fields']]
-  print(count_list)
   day_list = range(1, len(count_list) + 1)
   
   with plt.xkcd():
